@@ -2,9 +2,8 @@ div.container {
     width: 200px;
     background-color: red;
     border: 10px solid #eee;
-    margin: 30px;
 }
 
 body h1.titulo {
-    color: rgb(0, 255, 21);
+    color: red;
 }
