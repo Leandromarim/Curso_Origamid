@@ -3,15 +3,14 @@ section.container {
     position: relative;
     background-color: red;
     align-items: center;
-    justify-content: center;
 }
 
 div.item {
     display: flex;
     flex-wrap: wrap;
     position: relative;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
+    width: 500px;
+    height: 500px;
+    margin: 5px;
     background-color: yellow
 }

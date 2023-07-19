@@ -1,0 +1,10 @@
+section.container {
+    display: flex;
+    position: relative;
+    background-color: red;
+}
+
+div.item {
+    display: flex;
+    flex-wrap: wrap;
+}

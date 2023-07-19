@@ -2,16 +2,12 @@ section.container {
     display: flex;
     position: relative;
     background-color: red;
-    align-items: center;
-    justify-content: center;
 }
 
 div.item {
     display: flex;
     flex-wrap: wrap;
     position: relative;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    background-color: yellow
+    width: 500px;
+    height: 500px;
 }
